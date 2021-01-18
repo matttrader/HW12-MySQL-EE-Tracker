@@ -1,0 +1,25 @@
+{
+  "name": "hw12-mysql-ee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matttrader/HW12-MySQL-EE-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matttrader/HW12-MySQL-EE-Tracker/issues"
+  },
+  "homepage": "https://github.com/matttrader/HW12-MySQL-EE-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}
